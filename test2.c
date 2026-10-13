@@ -1,1 +1,1 @@
-printf("Hi ALL");\\ simple text
+printf("Hi");\\ simple text
